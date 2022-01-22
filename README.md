@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NazarovKI
-- 👀 I’m interested in google chrome extentions, API, javascript
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on bobbyrne01 / save-text-to-file-chrome Public
-- 📫 How to reach me: kirilnazarov@gmail.co, https://vk.com/nazarov_ki, 8(953)825-41-76
+- 👋 Меня зовут Кирилл Ильич Назаров.
+- 👀 Я - специалист издательского дела: выполняю корректуру, верстку, обработку фотографий
+- 🌱 Сейчас изучаю Linux/BASH, LaTeX, Python, Html Хотел бы заниматься: работой  с  чертежами технических устройств, проектированием кровель, систем отопления, расчетами, либо заниматься издательством технической или богословской литературы.
+- 💞️ Я пробовал работать вместе bobbyrne01 / save-text-to-file-chrome Public
+- 📫 Как меня найти? kirilnazarov@gmail.com, https://vk.com/nazarov_ki, 8(953)825-41-76
 
 <!---
 NazarovKI/NazarovKI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
