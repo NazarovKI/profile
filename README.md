@@ -1,4 +1,7 @@
 ![Фото на фоне животных](photo.jpg)
+[Благодарности](gratitude.md)
+
+# Призвание
 Христианский теолог и учитель информатики. Специалист издательского дела: корректор, верстальщик, фото-, аудио/видео-редактор.
 
 # Образование
@@ -15,14 +18,11 @@
 Изучаю интересуюсь технологиями: Linux/BASH, LaTeX, Python, Html.
 Любимые инструменты: командная строка, imageMagic, ffmmeg, blender, reveal.js.
 
-
-
 # Контакты 
-kirilnazarov@gmail.com, 
-https://vk.com/nazarov_ki, 
-8(953)825-41-76
+[e-mail](kirilnazarov@gmail.com), 
+[vk](https://vk.com/nazarov_ki), 
+☎️ 8(953)825-41-76.
 
-[Благодарности](gratitude.md)
 
 <!---
 NazarovKI/NazarovKI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
