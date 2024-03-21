@@ -1,8 +1,8 @@
 ![Фото на фоне животных|100px](photo.jpg)
 <br>
-[Достидения](achievements.md)
+[Достижения](achievements.md)
 [Благодарности](gratitude.md)
-[Кондак св. Николаю](kondak.md)
+[Кондак св. Кириллу и Мефодию, учителем Словенским](kondak.md)
 [Конспекты по информатике](https://nazarovki.github.io/computer-science)
 [Конспекты по ОПВ](https://nazarovki.github.io/vera/)
 [Опыт работы](work_experience.md)
