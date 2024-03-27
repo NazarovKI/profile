@@ -12,4 +12,4 @@ jobs:
           args: >- # allows you to break string into multiple lines
             --standalone
             --output=Nazarov.pdf
-            input.txt
+            Readme.md
