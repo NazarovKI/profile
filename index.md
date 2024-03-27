@@ -1,7 +1,3 @@
-![Фото на фоне животных|100px](assets/photo.jpg)
-<br>
-[Благодарности](gratitude.md)
-
 # Призвание
 Христианский теолог и учитель. 
 Помогаю освоить основы информационной культуры и издательского дела.
@@ -38,6 +34,7 @@
 📧 kirilnazarov@gmail.com, 
 https://vk.com/nazarov_ki, 
 ☎️ 8(953)825-41-76.
+[Благодарности](gratitude.md)
 <!---
 NazarovKI/NazarovKI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
